@@ -25,7 +25,7 @@ If you are interested to see some of the projects I worked on, feel free to chec
    <p align="left">
     <a href="https://github.com/zstankow/harmful_brain_activity_classification"><img width="278" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=zstankow&repo=harmful_brain_activity_classification&theme=react&bg_color=1F222E&title_color=ffff80&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="Zoe_sim"></a>
     <a href="https://github.com/zstankow/data-mining-project"><img width="278" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=zstankow&repo=data-mining-project&theme=react&bg_color=1F222E&title_color=ffff80&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="Zoe_sim"></a>
-    <a href="https://github.com/zstankow/chitchat_bot"><img width="312" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=zstankow&repo=chitchat_bot&theme=react&bg_color=1F222E&title_color=ffff80&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="Zoe_sim"></a>
+    <a href="https://github.com/zstankow/chitchat_bot"><img width="278" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=zstankow&repo=chitchat_bot&theme=react&bg_color=1F222E&title_color=ffff80&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="Zoe_sim"></a>
   </p>
 </details>
 
