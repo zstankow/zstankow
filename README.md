@@ -19,12 +19,12 @@ If you are interested to see some of the projects I worked on, feel free to chec
 ![Static Badge](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Static Badge](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
 
-
+db-design-atp
 <details open> 
   <summary><h3>👨‍💻 My Machine Learning Projects </h3></summary>
    <p align="left">
     <a href="https://github.com/zstankow/harmful_brain_activity_classification"><img width="278" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=zstankow&repo=harmful_brain_activity_classification&theme=react&bg_color=1F222E&title_color=ffff80&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="Zoe_sim"></a>
-    <a href="https://github.com/zstankow/data-mining-project"><img width="278" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=zstankow&repo=data-mining-project&theme=react&bg_color=1F222E&title_color=ffff80&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="Zoe_sim"></a>
+    <a href="https://github.com/zstankow/db-design-atp"><img width="278" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=zstankow&repo=db-design-atp&theme=react&bg_color=1F222E&title_color=ffff80&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="Zoe_sim"></a>
     <a href="https://github.com/zstankow/chitchat_bot"><img width="278" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=zstankow&repo=chitchat_bot&theme=react&bg_color=1F222E&title_color=ffff80&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="Zoe_sim"></a>
     <a href="https://github.com/zstankow/anomaly_detection"><img width="278" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=zstankow&repo=anomaly_detection&theme=react&bg_color=1F222E&title_color=ffff80&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="Zoe_sim"></a>
   </p>
