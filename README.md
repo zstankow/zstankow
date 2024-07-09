@@ -19,7 +19,6 @@ If you are interested to see some of the projects I worked on, feel free to chec
 ![Static Badge](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Static Badge](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
 
-db-design-atp
 <details open> 
   <summary><h3>👨‍💻 My Machine Learning Projects </h3></summary>
    <p align="left">
