@@ -27,8 +27,8 @@ If you are interested to see some of the projects I worked on, feel free to chec
     <a href="https://github.com/zstankow/chitchat_bot"><img width="278" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=zstankow&repo=chitchat_bot&theme=react&bg_color=1F222E&title_color=ffff80&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="Zoe_sim"></a>
     <a href="https://github.com/zstankow/anomaly_detection"><img width="278" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=zstankow&repo=anomaly_detection&theme=react&bg_color=1F222E&title_color=ffff80&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="Zoe_sim"></a>
   </p>
-</details>
-
+  
+<details open> 
   <summary><h3>👨‍💻 My NLP/LLM Projects </h3></summary>
      <p align="left">
         <a href="https://github.com/zstankow/simple_FAQ_answer_retrieval"><img width="278" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=zstankow&repo=simple_FAQ_answer_retrieval&theme=react&bg_color=1F222E&title_color=ffff80&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="Zoe_sim"></a>
@@ -37,12 +37,9 @@ If you are interested to see some of the projects I worked on, feel free to chec
     </p>
 </details>
         
-
-  
-
-#
-
-
+# 
+### 📕 My Medium Articles
+[Automating the Classification of Harmful Brain Activity Using CNN models](https://medium.com/@stankowskizoe/automating-the-classification-of-harmful-brain-activity-using-cnn-models-8a5f0624e94f)
 
 <details closed> 
   <summary><h3>📞 Contact</h3></summary>
