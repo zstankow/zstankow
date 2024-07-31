@@ -41,6 +41,8 @@ If you are interested to see some of the projects I worked on, feel free to chec
 ### 📕 My Medium Articles
 [Automating the Classification of Harmful Brain Activity Using CNN models](https://medium.com/@stankowskizoe/automating-the-classification-of-harmful-brain-activity-using-cnn-models-8a5f0624e94f)
 
+[Running VS Code on WSL](https://medium.com/@stankowskizoe/running-vs-code-on-wsl-c1f0d4a483ca)
+
 <details closed> 
   <summary><h3>📞 Contact</h3></summary>
 
