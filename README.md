@@ -47,6 +47,8 @@ If you are interested to see some of the projects I worked on, feel free to chec
 
 [Running VS Code on WSL](https://medium.com/@stankowskizoe/running-vs-code-on-wsl-c1f0d4a483ca)
 
+[How does imbalanced data affect recall and precision?](https://medium.com/@stankowskizoe/how-does-imbalanced-data-affect-recall-and-precision-f9d9e3f25a0a)
+
 <details closed> 
   <summary><h3>📞 Contact</h3></summary>
 
